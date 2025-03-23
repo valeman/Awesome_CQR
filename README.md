@@ -11,6 +11,8 @@ The best repository showing why CQR (Conformalized Quantile Regression) is the b
 
 * [Articles](#articles)
 
+* [Competitions](#competitions)
+
 * [R](#R)
 
 ## Videos
@@ -41,6 +43,9 @@ The best repository showing why CQR (Conformalized Quantile Regression) is the b
 9. [Conformalized quantile regression](https://mlwithouttears.com/2024/01/17/conformalized-quantile-regression/) by Lorenzo Maggi
 10. [Another (Conformal) Way to Predict Probability Distributions - Conformal multi-quantile regression with Catboost](https://medium.com/data-science/another-conformal-way-to-predict-probability-distributions-fcc63e78680d#:~:text=In%20a%20previous%20article%2C%20we,quantile%20regression.%20I) by Harrison Hoffman (2023)
 11. [Prediction Intervals using Conformalized Quantile Regression](https://vincentwtrs.github.io/2024-03-06-conformal_prediction_prediction_intervals) by Vincent Wauters (2024)
+
+## Competitions
+1.  [Probabilistic forecasting I: Temperature](https://www.kaggle.com/competitions/probabilistic-forecasting-i-temperature/discussion/524303) (2024) 🔥🔥🔥🔥🔥
 
 ## Python
 1. [Conformalized Quantile Regression, by the author of CQR](https://github.com/yromano/cqr#) by Yaniv Romano (2019) [site](https://sites.google.com/view/cqr?pli=1)
