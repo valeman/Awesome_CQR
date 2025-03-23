@@ -49,9 +49,10 @@ The best repository showing why CQR (Conformalized Quantile Regression) is the b
 
 ## Python
 1. [Conformalized Quantile Regression, by the author of CQR](https://github.com/yromano/cqr#) by Yaniv Romano (2019) [site](https://sites.google.com/view/cqr?pli=1)
-2. [Conformal Tights](https://github.com/superlinear-ai/conformal-tights)
-3. [NeuralProphet](https://neuralprophet.com/how-to-guides/feature-guides/uncertainty_quantification.html#:~:text=method%20%3D%20)
-4. [DataRobot – Enterprise AutoML, CQR](https://github.com/datarobot-community/ai-accelerators/tree/main/advanced_ml_and_api_approaches/prediction_intervals_via_conformal_inference) (2024)
+2. [TorchCP](https://github.com/ml-stat-Sustech/TorchCP) 🔥🔥🔥🔥🔥
+3. [Conformal Tights](https://github.com/superlinear-ai/conformal-tights)
+4. [NeuralProphet](https://neuralprophet.com/how-to-guides/feature-guides/uncertainty_quantification.html#:~:text=method%20%3D%20)
+5. [DataRobot – Enterprise AutoML, CQR](https://github.com/datarobot-community/ai-accelerators/tree/main/advanced_ml_and_api_approaches/prediction_intervals_via_conformal_inference) (2024)
 
 
 ## R
